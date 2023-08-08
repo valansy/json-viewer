@@ -1,0 +1,17 @@
+[
+  {
+    "_msg": "2023-08-07T08:38:40.923945779Z stderr F level=info msg=\"Marking identity for later deletion\" identity=46318 k8sUID=39df1cda-f289-4469-a078-5a88df979153 subsys=cilium-operator-generic",
+    "_stream": "{host=\"lab-k8s-ebpf-ingress\",job=\"kube-system/cilium-operator-7464bd8d7b-tht9d\"}",
+    "_time": "2023-08-07T09:00:57.002913762Z"
+  },
+  {
+    "_msg": "2023-08-07T08:38:40.944536257Z stderr F level=info msg=\"Marking identity for later deletion\" identity=26569 k8sUID=db796430-7381-4af2-8ffc-66a674af6e46 subsys=cilium-operator-generic",
+    "_stream": "{host=\"lab-k8s-ebpf-ingress\",job=\"kube-system/cilium-operator-7464bd8d7b-tht9d\"}",
+    "_time": "2023-08-07T09:00:57.003320315Z"
+  },
+  {
+    "_msg": "2023-08-07T08:53:40.988650379Z stderr F level=info msg=\"Garbage collected identity\" identity=46318 subsys=cilium-operator-generic",
+    "_stream": "{host=\"lab-k8s-ebpf-ingress\",job=\"kube-system/cilium-operator-7464bd8d7b-tht9d\"}",
+    "_time": "2023-08-07T09:00:57.003603176Z"
+  }
+]
