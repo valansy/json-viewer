@@ -2,6 +2,7 @@
   {
     "_stream" : {
       "host" : "lab-k8s-ebpf-ingress","job" : "kube-system/cilium-operator-7464bd8d7b-tht9d"
-    }
+    },
+    "_stream_app": {"host":"lab-k8s-ebpf-ingress","job":"kube-system/cilium-operator-7464bd8d7b-tht9d"}
   }
 ]
